@@ -153,7 +153,7 @@ All activities were performed in a personal laboratory using test artifacts and 
 ## Full Reports
 
 - [Read the English report](./reports/Purple_Lab_Splunk_Local_AI_Validation_Report_EN.pdf)
-- [Pročitaj izveštaj na srpskom](./reports/Purple_Lab_Splunk_Local_AI_Validation_Report_SR.pdf)
+- [Pročitaj izveštaj na srpskom](./reports/Purple_Lab_Splunk_Local_AI_Validation_Report_SRB.pdf)
 
 ## Author
 
